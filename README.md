@@ -15,6 +15,32 @@
 ---
 [![](https://komarev.com/ghpvc/?username=huzaifmushtaq&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🚀 Current Projects
+
+### 🏡 The Warm Blanket
+
+A beautiful real-time messaging platform featuring
+
+- Real-time Chat
+- Telegram Integration
+- Media Sharing
+- Online / Last Seen
+- Story Feature (In Progress)
+
+---
+
+### 📖 Seeker
+
+An Islamic Flutter application featuring
+
+- Holy Quran
+- Prayer Times
+- Qibla Compass
+- Duas
+- Hadith
+- Islamic Library
+- Daily Tracker
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://github.com/huzaifmushtaq) 
 
